@@ -1,32 +1,34 @@
-[
-  {
-    "id": 1,
-    "title": "Title 1",
-    "tags": "tag1",
-    "description": "Donec lorem metus, viverra vel urna quis, fringilla ornare elit."
-  },
-  {
-    "id": 2,
-    "title": "Title 2",
-    "tags": "tag3",
-    "description": "Quisque hendrerit consequat justo a vehicula. In non blandit justo."
-  },
-  {
-    "id": 3,
-    "title": "Title 3",
-    "tags": "tag3",
-    "description": "Curabitur gravida id risus ac gravida."
-  },
-  {
-    "id": 4,
-    "title": "Title 4",
-    "tags": "tag2",
-    "description": "Mauris auctor metus a sagittis placerat."
-  },
-  {
-    "id": 5,
-    "title": "Title 5",
-    "tags": "tag1",
-    "description": "Vestibulum eu lobortis nisl. Curabitur faucibus arcu massa."
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "tags": "tag1",
+      "description": "Donec lorem metus, viverra vel urna quis, fringilla ornare elit."
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "tags": "tag3",
+      "description": "Quisque hendrerit consequat justo a vehicula. In non blandit justo."
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "tags": "tag3",
+      "description": "Curabitur gravida id risus ac gravida."
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "tags": "tag2",
+      "description": "Mauris auctor metus a sagittis placerat."
+    },
+    {
+      "id": 5,
+      "title": "Title 5",
+      "tags": "tag1",
+      "description": "Vestibulum eu lobortis nisl. Curabitur faucibus arcu massa."
+    }
+  ]
+}
